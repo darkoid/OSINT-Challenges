@@ -4,8 +4,8 @@
 
 There were two OSINT challenges in this CTF, I honestly think these challenges were different from the usual and not to mention **Difficult**:
 
-* [OSINT I : Image OSINT] (/OSINT_I_400_Trackme_TrendMicro21.png)
-* [OSINT II : Abduction related OSINT] (/OSINT_II_abduction_video.txt)
+* [OSINT I : Image OSINT](OSINT_I_400_Trackme_TrendMicro21.png)
+* [OSINT II : Abduction related OSINT](OSINT_II_abduction_video.txt)
 
 Walkthrough (both) : 
 
