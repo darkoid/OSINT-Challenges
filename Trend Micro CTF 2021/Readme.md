@@ -8,7 +8,3 @@ There were two OSINT challenges in this CTF, I honestly think these challenges w
 * [OSINT II : Abduction related OSINT](OSINT_II_abduction_video.txt)
 
 Walkthrough (both) : 
-
-
-Create OSINT_II_abduction_video.txt
-1 minute ago
