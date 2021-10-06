@@ -4,7 +4,7 @@
 
 There were two OSINT challenges in this CTF, I honestly think these challenges were different from the usual and not to mention **Difficult**:
 
-* OSINT I : Abduction related OSINT
-* OSINT II : Image OSINT
+* OSINT I : Image OSINT
+* OSINT II : Abduction related OSINT
 
 Walkthrough (both) : 
